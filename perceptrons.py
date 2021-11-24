@@ -6,10 +6,6 @@
 import perceptrons_data as data
 import math
 
-# Include your imports here, if any are used.
-
-
-
 ############################################################
 # Section 1: Perceptrons
 ############################################################
@@ -273,20 +269,3 @@ class MysteryClassifier2(object):
 # breakpoint()
 
 # print([c.classify(x) for x in ((1,1,1), (-1,-1,-1), (1,2,-3), (-1,2,3))])
-############################################################
-# Section 3: Feedback
-############################################################
-
-feedback_question_1 = 0
-
-feedback_question_2 = """
-Type your response here.
-Your response may span multiple lines.
-Do not include these instructions in your response.
-"""
-
-feedback_question_3 = """
-Type your response here.
-Your response may span multiple lines.
-Do not include these instructions in your response.
-"""
